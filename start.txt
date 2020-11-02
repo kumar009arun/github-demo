@@ -1,1 +1,2 @@
 Test Git Quick Start demo
+Day-2 : Practicing git bash commands
